@@ -12,6 +12,14 @@ The system:
 - generates an onboarding email draft
 - saves the result into a local CRM simulation by SQL!
 
+Style:
+I decided to use more funny and friendly style:
+![alt text](image.png)
+
+And the clients page will look like this:
+![alt text](image-1.png)
+
+![alt text](image-2.png)
 ## Goal
 To show that I can work with ai tools and create fast AI agent solutions!
 
