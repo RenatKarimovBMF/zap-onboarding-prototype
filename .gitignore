@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+key.txt
+crm_demo.db
+crm_payload.json
+email_draft.txt
+dist/
+build/
+*.spec
