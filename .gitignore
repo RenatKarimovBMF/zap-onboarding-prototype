@@ -8,3 +8,6 @@ email_draft.txt
 dist/
 build/
 *.spec
+zap_backend/
+
+key.txt
